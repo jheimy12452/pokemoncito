@@ -1,4 +1,3 @@
-# pokemoncito
 public class Charmander  extends Pokemon implements IFuego{
     public Charmander() {
     }
